@@ -1,0 +1,18 @@
+features of testng:
+
+- multiple before and after annotations
+@ beforeclass, @beforemethod,@beforetest,@afterclass,@aftermethod,@aftertest ets
+
+- test cases can be grouped easily and prioritized easily.-you can create groups to run particular test cases(for example, "smoke" or "regression testing")
+
+- test cases can be executed on multiple browsers
+
+- test cases can be executed for more than one time
+
+- parameterization is possible-users can pass parameters thorugh xml configuration file to the method
+
+- dependent methods- user can run dependent test methods. users can aslso decide the execution of the test methods.
+
+-supports data driven testing
+
+- reporting- it generates html and xm reports by default.
